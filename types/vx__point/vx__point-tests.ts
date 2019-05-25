@@ -5,7 +5,7 @@
  * in the sense of typing and call signature consistency. They
  * are not intended as functional tests.
  */
-import { Point } from "vx__point";
+import { Point } from "@vx/point";
 
 new Point({}); // $ExpectType Point
 

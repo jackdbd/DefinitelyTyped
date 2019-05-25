@@ -7,6 +7,9 @@
         "noEmit": true,
         "noImplicitAny": true,
         "noImplicitThis": true,
+        "paths": {
+            "@vx/point": ["vx__point"]
+        },
         "strictFunctionTypes": true,
         "strictNullChecks": true,
         "target": "es5",
